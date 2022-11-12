@@ -1,0 +1,10 @@
+clients\Specifications.class
+tests\CreateOrderTest.class
+clients\CourierClient.class
+clients\OrderClient.class
+tests\CreateCourierTest.class
+tests\GetOrdersTest.class
+tests\LoginCourierTest.class
+org\example\pojo\CourierLogin.class
+org\example\pojo\OrderCreate.class
+org\example\pojo\CourierRegister.class
